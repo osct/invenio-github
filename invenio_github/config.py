@@ -92,3 +92,5 @@ GITHUB_REMOTE_APP['signup_handler']['setup'] = \
     'invenio_github.handlers:account_setup'
 GITHUB_REMOTE_APP['params']['request_token_params']['scope'] = \
     'user,admin:repo_hook,read:org'
+
+THEME_DOI_EXAMPLE = '10.5281/zenodo.8475'
